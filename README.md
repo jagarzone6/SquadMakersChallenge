@@ -1,5 +1,5 @@
 # SquadMakersChallenge
-This challenge is implemented with behave + Python 3.8
+This challenge is implemented with behave + selenium in Python 3.8
 
 
 ## Set up instructions
