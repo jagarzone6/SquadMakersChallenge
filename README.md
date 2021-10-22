@@ -18,6 +18,6 @@ You need google chrome installed locally
 
 6. generate HTML report with allure
 
-            sudo allure serve report/
+            sudo allure serve -p 38923 report/
 
 7. Open report in your browser http://127.0.1.1:38923/
